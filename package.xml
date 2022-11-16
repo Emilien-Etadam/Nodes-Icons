@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
-  <name>Nodes</name>
+  <name>Nodes Icons TEST</name>
   <description>ICON TEST</description>
   <version>0.1</version>
   <date>2022-11-16</date>
   <maintainer email="ronny.scharf08@gmail.com">Ronny Scharf-Wildenhain</maintainer>
   <license file="LICENSE">LGPLv2.1</license>
-  <url type="repository" branch="main">https://github.com/j8sr0230/Nodes</url>
+  <url type="repository" branch="main">https://github.com/Emilien-Etadam/Nodes-Icons</url>
   <url type="issues" branch="main">https://github.com/j8sr0230/Nodes/issues</url>
   <icon>icons/fcn_wb_icon.svg</icon>
 
@@ -14,7 +14,7 @@
     <workbench>
       <name>Nodes-Icons</name>
       <version>0.1</version>
-      <description>Visual scripting workbench for FreeCAD</description>
+      <description>TEST</description>
       <classname>InitGui</classname>
       <subdirectory>./</subdirectory>
       <icon>icons/fcn_wb_icon.svg</icon>
